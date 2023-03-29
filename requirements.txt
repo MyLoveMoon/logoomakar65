@@ -1,4 +1,3 @@
-pyrogram
 TgCrypto
 aiohttp
 python-dotenv
@@ -32,3 +31,14 @@ opencv-python-headless
 pytz
 pykeyboard
 Python_ARQ
+telethon
+cryptg
+asyncio
+telegraph
+requests
+async-lru
+pyaes
+Tgcrypto
+pyrogram==1.4.15
+PySocks
+python-dotenv
